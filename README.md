@@ -6,10 +6,10 @@
 
 Bem-vindo ao repositório **#7DaysOfCode!** Este é um desafio de programação de 7 dias criado pela [Giovanna Moeller ](https://www.linkedin.com/in/giovannamoeller/)(girl codding) e é focado em aprimorar as habilidades em estrutura de dados. Eu estou usando Python como linguagem de programação para esse dasafio. Neste repositório, você encontrará soluções para uma série de problemas de estrutura de dados, organizados por dia.
 
-###Objetivo
+### Objetivo
 O objetivo do #7DaysOfCode é fornecer um conjunto de desafios diários que permitam a prática de estruturas de dados em Python. Cada dia, você encontrará um novo problema que exigirá a implementação de uma estrutura de dados ou a aplicação de um conceito específico.
 
-###Desafios Diários
+### Desafios Diários
 Aqui está uma visão geral dos desafios diários:
 
 **Dia 1 - Arrays**
@@ -17,12 +17,12 @@ Aqui está uma visão geral dos desafios diários:
 **Problema:** Implementar uma versão simplificada de uma lista de compras usando arrays. A lista deve permitir adicionar novos itens, remover itens e listar todos os itens..
 
 
-###Como usar este repositório
+### Como usar este repositório
 Você pode clonar este repositório e navegar pelos diretórios para encontrar a solução de cada desafio diário. Cada diretório contém um arquivo Python com a implementação da estrutura de dados ou do algoritmo solicitado.
 
 Sinta-se à vontade para explorar as soluções existentes, estudar e aprender com elas. Contribuições são sempre bem-vindas!
 
-###Licença
+### Licença
 Este repositório é licenciado sob a Licença MIT. Sinta-se à vontade para utilizar, modificar e distribuir o código contido neste repositório de acordo com os termos da licença.
 
 -----
