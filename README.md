@@ -4,7 +4,7 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python"></a>
 -----
 
-Bem-vindo ao repositório **#7DaysOfCode!** Este é um desafio de programação de 7 dias criado pela [Giovanna Moeller ](https://www.linkedin.com/in/giovannamoeller/)(girl codding) e é focado em aprimorar as habilidades em estrutura de dados. Eu estou usando Python como linguagem de programação para esse dasafio. Neste repositório, você encontrará soluções para uma série de problemas de estrutura de dados, organizados por dia.
+Bem-vindo ao repositório **#7DaysOfCode!** Este é um desafio de programação de 7 dias criado pela [Giovanna Moeller ](https://www.linkedin.com/in/giovannamoeller/)(girl.coding) e é focado em aprimorar as habilidades em estrutura de dados. Eu estou usando Python como linguagem de programação para esse dasafio. Neste repositório, você encontrará soluções para uma série de problemas de estrutura de dados, organizados por dia.
 
 ### Objetivo
 O objetivo do #7DaysOfCode é fornecer um conjunto de desafios diários que permitam a prática de estruturas de dados em Python. Cada dia, você encontrará um novo problema que exigirá a implementação de uma estrutura de dados ou a aplicação de um conceito específico.
