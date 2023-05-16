@@ -20,6 +20,10 @@ Aqui está uma visão geral dos desafios diários:
 
 **Problema:**  implementar um sistema de gerenciamento de pacientes em um hospital usando listas simplesmente encadeadas.
 
+**Dia 3 - Lista Duplamente Encadeadas**
+
+**Problema:**   implementar um sistema de controle de estoque de uma loja usando listas duplamente encadeadas.
+
 
 ### Como usar este repositório
 Você pode clonar este repositório e navegar pelos diretórios para encontrar a solução de cada desafio diário. Cada diretório contém um arquivo Python com a implementação da estrutura de dados ou do algoritmo solicitado.
