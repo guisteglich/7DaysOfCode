@@ -24,6 +24,10 @@ Aqui está uma visão geral dos desafios diários:
 
 **Problema:**   implementar um sistema de controle de estoque de uma loja usando listas duplamente encadeadas.
 
+**Dia 4 - Filas**
+
+**Problema:**   implementar uma fila simples para gerenciar pedidos de um restaurante
+
 
 ### Como usar este repositório
 Você pode clonar este repositório e navegar pelos diretórios para encontrar a solução de cada desafio diário. Cada diretório contém um arquivo Python com a implementação da estrutura de dados ou do algoritmo solicitado.
