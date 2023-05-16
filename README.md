@@ -14,7 +14,11 @@ Aqui está uma visão geral dos desafios diários:
 
 **Dia 1 - Arrays**
 
-**Problema:** Implementar uma versão simplificada de uma lista de compras usando arrays. A lista deve permitir adicionar novos itens, remover itens e listar todos os itens..
+**Problema:** Implementar uma versão simplificada de uma lista de compras usando arrays. A lista deve permitir adicionar novos itens, remover itens e listar todos os itens.
+
+**Dia 2 - Lista Encadeada**
+
+**Problema:**  implementar um sistema de gerenciamento de pacientes em um hospital usando listas simplesmente encadeadas.
 
 
 ### Como usar este repositório
