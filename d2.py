@@ -37,6 +37,8 @@ class ListaDePacientes:
             atual.proximoNo = paciente  # type: ignore
             self.tail = paciente
 
+        # Melhoria: usar tail para chegar no último elemento, evitando precisar percorrer a lista.
+
     def remove_paciente(self, nome):
         if self.head == None:
             return print(
