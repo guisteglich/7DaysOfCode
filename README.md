@@ -32,6 +32,10 @@ Aqui está uma visão geral dos desafios diários:
 
 **Problema:**   implementar uma pilha simples para gerenciar os livros da saga "As Crônicas de Gelo e Fogo" (Game of Thrones).
 
+**Dia 6 - Hashmap**
+
+**Problema:**   implementar um sistema de pontuação para jogos online usando uma técnica de hashmap.
+
 
 ### Como usar este repositório
 Você pode clonar este repositório e navegar pelos diretórios para encontrar a solução de cada desafio diário. Cada diretório contém um arquivo Python com a implementação da estrutura de dados ou do algoritmo solicitado.
