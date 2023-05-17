@@ -31,13 +31,17 @@ class ListaDePacientes:
             self.tail = paciente
 
         else:
-            atual = self.head
-            while atual.proximoNo != None:
-                atual = atual.proximoNo
-            atual.proximoNo = paciente  # type: ignore
-            self.tail = paciente
+            # atual = self.head
+            # while atual.proximoNo != None:
+            #     atual = atual.proximoNo
+            # atual.proximoNo = paciente  # type: ignore
+            # self.tail = paciente
 
-        # Melhoria: usar tail para chegar no último elemento, evitando precisar percorrer a lista.
+            # Melhoria: usar tail para chegar no último elemento, evitando precisar percorrer a lista.
+
+            ultimo = self.tail
+            ultimo.proximoNo = paciente
+            self.tail = paciente
 
     def remove_paciente(self, nome):
         if self.head == None:
@@ -48,12 +52,12 @@ class ListaDePacientes:
             atual = self.head
             pai = self.head
 
-            while atual.nome != nome: # type: ignore
+            while atual.nome != nome:  # type: ignore
                 if atual.proximoNo == None:
                     return print(f"O paciente {nome} não está na lista!")
                 pai = atual
-                atual = atual.proximoNo # type: ignore
-            
+                atual = atual.proximoNo  # type: ignore
+
             if atual == self.tail:
                 self.tail = pai
             pai.proximoNo = atual.proximoNo
@@ -63,8 +67,11 @@ class ListaDePacientes:
             return print("Não há pacientes para ser listado!")
         atual = self.head
         while atual != None:
-            print(f"O paciente {atual.nome} que possui o identificador {atual.id} está com o estado de saúde {atual.estado}.")
+            print(
+                f"O paciente {atual.nome} que possui o identificador {atual.id} está com o estado de saúde {atual.estado}."
+            )
             atual = atual.proximoNo
+
 
 pacientes = ListaDePacientes()
 
@@ -72,4 +79,3 @@ pacientes.add_paciente("Guilherme", "044", "Saudável")
 pacientes.add_paciente("Geromel", "03", "Recuperação")
 
 pacientes.listar_pacientes()
-        
