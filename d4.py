@@ -20,6 +20,8 @@ class FilaDePedidos:
         self.valores.append(pedido)
 
     def desenfileirar(self):
+        if len(self.valores) < 1:
+            return print("Não há nada na fila!")
         pedido_atendido = self.valores.pop(0)
         return print(
             f"O pedido {pedido_atendido.numero} do cliente {pedido_atendido.nomeCliente} com os items {pedido_atendido.items} começou a ser preparado."
