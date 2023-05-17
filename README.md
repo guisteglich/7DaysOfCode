@@ -26,7 +26,11 @@ Aqui está uma visão geral dos desafios diários:
 
 **Dia 4 - Filas**
 
-**Problema:**   implementar uma fila simples para gerenciar pedidos de um restaurante
+**Problema:**   implementar uma fila simples para gerenciar pedidos de um restaurante.
+
+**Dia 5 - Pilhas**
+
+**Problema:**   implementar uma pilha simples para gerenciar os livros da saga "As Crônicas de Gelo e Fogo" (Game of Thrones).
 
 
 ### Como usar este repositório
